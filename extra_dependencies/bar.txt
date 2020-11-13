@@ -1,0 +1,3 @@
+BAR_SUCCESS: The operation was successful.
+BAR_FAILURE: The operation failed.
+BAR_MYSTERY: Something really weird went wrong.

@@ -1,0 +1,3 @@
+FOO_SUCCESS: The operation was successful.
+FOO_FAILURE: The operation failed.
+FOO_MYSTERY: Something really weird went wrong.
